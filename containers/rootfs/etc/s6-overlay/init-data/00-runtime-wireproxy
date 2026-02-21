@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+set -e
+
+mkdir -pv /tmp/wireproxy
+chown www-data:www-data -R /tmp/wireproxy

@@ -1,0 +1,5 @@
+#!/command/execlineb -P
+with-contenv
+s6-notifyoncheck
+s6-setuidgid www-data
+/usr/bin/wireproxy --silent --config /tmp/wireproxy/wireproxy.conf

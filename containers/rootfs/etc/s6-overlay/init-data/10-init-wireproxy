@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+set -e
+
+if [ -n "$CR_WIREPROXY_CONF64" ]; then
+    echo "$CR_WIREPROXY_CONF64" | base64 -d > /tmp/wireproxy/wireproxy.conf
+fi
