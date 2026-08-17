@@ -15,23 +15,9 @@ interface for whatever reasons.
 
 # Main Sponsor
 
-<a href="https://www.ipcook.com/?ref=EGS23I&utm_source=github&utm_medium=referral&utm_campaign=wireproxy"><img src="./assets/ipcook.png" width="300" alt="IPCook"></a>
+<a href="https://www.rapidproxy.io/?ref=wire"><img src="./assets/rapidproxy.png" width="300" alt="Rapidproxy"></a>
 
-**Use code `WELCOME20` for 20% OFF.** Start with a [**FREE 100MB Trial**](https://www.ipcook.com/?ref=EGS23I&utm_source=github&utm_medium=referral&utm_campaign=wireproxy)**.**
-
-[IPcook](https://www.ipcook.com/?ref=EGS23I&utm_source=github&utm_medium=referral&utm_campaign=wireproxy) is a proxy provider offering Residential Proxies, ISP Proxies, and Datacenter Proxies for developers and businesses. Its global network helps clients leverage stable, high-quality IP resources to improve the success rate of their target websites. Whether you're collecting public web data, running large-scale automation, verifying ads, or managing multiple accounts. IPcook provides reliable proxy solutions with flexible pricing, with residential proxies available for as low as **$0.5/GB**.  
-
-IPcook proxy is sourced from real residential IPs, supports flexible IP rotation or sticky sessions, and works with HTTP, HTTPS, and SOCKS5 protocols. Developers can quickly integrate IPcook through APIs and popular automation frameworks, while an intuitive dashboard simplifies traffic monitoring, usage management, and team collaboration.
-
-**Key Features**
-
-* Global average response time \< 0.5s, with latency as low as 50ms in major regions  
-* 99.99% uptime for reliable and uninterrupted connectivity  
-* 500 concurrent threads (scalable to 100,000 at max)  
-* 55M+ real residential IPs across 185+ countries and regions  
-* Up to 24-hour Sticky Sessions for long-running tasks  
-* Up to 10 free sub-accounts for team collaboration  
-* Flexible IP rotation by request or custom time intervals
+[RapidProxy](https://www.rapidproxy.io/?ref=wire) is a residential proxy platform with 90M+ real IPs across 200+ countries. It supports rotation, geo-targeting, and high concurrency to improve scraping success and reduce bans. Start your free trial today!
 
 # Why you might want this
 
